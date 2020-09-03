@@ -1,4 +1,4 @@
-# Image Features and Matching
+# Image Classification using CNNs
 
 Project 3 - Analysis and Search of Visual Data (EQ2425) - Federico Favia & Mayank Gulati, October 2019, KTH, Stockholm
 
